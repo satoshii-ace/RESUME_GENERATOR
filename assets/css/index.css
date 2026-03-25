@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: #0b1120;
+    background-image:
+    radial-gradient(circle at 15% 50%, rgba(56, 189, 248, 0.08), transparent 40%),
+    radial-gradient(circle at 85% 30%, rgba(52, 211, 153, 0.05), transparent 40%);
+    background-size: cover;
+    background-attachment: fixed;
+    color: #e2e8f0;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    column-gap: 20rem;
+    padding: 1rem 1.5rem;
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+ 
+}
+
+nav .title h1 {
+    font-size: 1.1rem;
+    letter-spacing: 0.05rem;
+    margin: 0;
+}
+
+nav .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1.2rem;
+    column-gap: 5rem;
+}
+
+nav .nav-links li a {
+    color: #e2e8f0;
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.2s ease-in-out;
+}
+
+nav .nav-links li a:hover {
+    color: #ffe066;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+.hero {
+    height: 100vh;
+    
+}
+
