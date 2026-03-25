@@ -18,7 +18,7 @@ A dynamic, web-based Resume/CV generator built with PHP. This application allows
 ## 🔗 Project Links
 
 * **Live Demo:** [Insert your live website link here, e.g., InfinityFree/000webhost link]
-* **GitHub Repository:** [Insert your GitHub repo link here]
+* **GitHub Repository:** [https://github.com/satoshii-ace/RESUME_GENERATOR.git]
 
 ## 💻 Local Setup and Installation
 
@@ -34,7 +34,8 @@ To run this project locally on your machine:
 4. Open your browser and navigate to:
    http://localhost/RESUME_GENERATOR
 
-👨‍💻 Author
+## 👨‍💻 Author
+
 -Ashley Clint Torres
 -Eastern Visayas State University (EVSU)
 -BSIT
