@@ -104,10 +104,10 @@
         <div class="contact-content">
             <div class="contact-info">
                 <h3>Contact Information</h3>
-                <p><i class="fa-solid fa-envelope"></i> Email: info@resumegenerator.com</p>
-                <p><i class="fa-solid fa-phone"></i> Phone: +1 (555) 123-4567</p>
-                <p><i class="fa-solid fa-house"></i> Address: 123 Resume Street, Career City, CC 12345</p>
-                <p><i class="fa-solid fa-globe"></i> Website: www.resumegenerator.com</p>
+                <p><i class="fa-solid fa-envelope"></i> Email: torresashleyclint@gmail.com</p>
+                <p><i class="fa-solid fa-phone"></i> Phone: +639756389389</p>
+                <p><i class="fa-solid fa-house"></i> Address: Brgy. Margen NHA, Ormoc City, Leyte 6541</p>
+                <p><i class="fa-solid fa-globe"></i> Website: www.resume-generator.free.nf</p>
             </div>
             <div class="contact-form">
                 <h3>Send us a message</h3>
